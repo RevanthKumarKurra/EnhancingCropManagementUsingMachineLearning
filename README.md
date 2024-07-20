@@ -1,0 +1,1 @@
+Our final year project uses machine learning to enhance crop management. We created a dataset with crop ages, calculated from planting and current dates. We predict fertilizer needs based on crop age and forecast yield using an ElasticNet model. Hardware automatically pumps water based on soil moisture.
