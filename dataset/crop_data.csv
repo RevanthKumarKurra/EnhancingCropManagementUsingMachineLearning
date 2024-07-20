@@ -1,0 +1,290 @@
+Plant Name,Stage,Start Day,End Day,Recommended Fertilizer
+Tomato,Land Preparation,,,Organic compost or well-rotted manure
+Tomato,Planting,,,10-10-10 NPK blend
+Tomato,Early Growth,10.0,20.0,"Nitrogen-rich fertilizers (e.g., urea or ammonium nitrate)"
+Tomato,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher phosphorus content (e.g., 10-20-10 NPK blend)"
+Tomato,Late Growth,40.0,60.0,Balanced fertilizers or potassium-rich fertilizer like potassium sulfate
+Tomato,Fruiting,60.0,80.0,"Potassium-rich fertilizers (e.g., potassium chloride or potassium sulfate)"
+Tomato,Harvest,,,Cease fertilization
+Potato,Land Preparation,,,Organic compost or well-rotted manure
+Potato,Planting,,,Balanced fertilizer such as 10-10-10 NPK blend
+Potato,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Potato,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher phosphorus content, such as 10-20-10 NPK blend"
+Potato,Late Growth,40.0,60.0,Balanced fertilizers or potassium-rich fertilizer like potassium sulfate
+Potato,Fruiting,60.0,80.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate
+Potato,Harvest,,,Cease fertilization
+Sugarcane,Land Preparation,,,Organic compost or well-rotted manure
+Sugarcane,Planting,,,Balanced fertilizer such as 15-15-15 NPK blend
+Sugarcane,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Sugarcane,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher phosphorus content, such as 10-20-10 NPK blend"
+Sugarcane,Late Growth,40.0,60.0,Balanced fertilizers or potassium-rich fertilizer like potassium sulfate
+Sugarcane,Maturity,60.0,80.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate
+Sugarcane,Harvest,,,Cease fertilization
+Chilli,Land Preparation,,,Organic compost or well-rotted manure
+Chilli,Planting,,,Balanced fertilizer such as 10-10-10 NPK blend
+Chilli,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Chilli,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher phosphorus content, such as 10-20-10 NPK blend"
+Chilli,Late Growth,40.0,60.0,Balanced fertilizers or potassium-rich fertilizer like potassium sulfate
+Chilli,Fruiting,60.0,80.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate
+Chilli,Harvest,,,Cease fertilization
+Cotton,Land Preparation,,,Organic compost or well-rotted manure
+Cotton,Planting,,,Balanced fertilizer such as 15-15-15 NPK blend
+Cotton,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Cotton,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher potassium content, such as 10-10-30 NPK blend"
+Cotton,Late Growth,40.0,60.0,Balanced fertilizers or phosphorus-rich fertilizer like superphosphate
+Cotton,Boll Development,60.0,80.0,Potassium-rich fertilizers such as potassium sulfate
+Cotton,Harvest,,,Cease fertilization
+Papaya,Land Preparation,,,Organic compost or well-rotted manure
+Papaya,Planting,,,Balanced fertilizer such as 10-10-10 NPK blend
+Papaya,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Papaya,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher phosphorus content, such as 10-20-10 NPK blend"
+Papaya,Late Growth,40.0,60.0,Balanced fertilizers or potassium-rich fertilizer like potassium sulfate
+Papaya,Fruiting,60.0,90.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate
+Papaya,Harvest,,,Cease fertilization
+Mango,Land Preparation,,,Organic compost or well-rotted manure
+Mango,Planting,,,Balanced fertilizer such as 10-10-10 NPK blend
+Mango,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Mango,Mid-Growth,20.0,40.0,"Balanced fertilizer with higher phosphorus content, such as 10-20-10 NPK blend"
+Mango,Late Growth,40.0,60.0,Balanced fertilizers or potassium-rich fertilizer like potassium sulfate
+Mango,Fruiting,60.0,90.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate
+Mango,Harvest,,,Cease fertilization
+Rice,Land Preparation,,,Organic matter incorporation and basal application of fertilizers like farmyard manure or compost
+Rice,Planting,,,"Application of basal fertilizers like urea, single superphosphate, and muriate of potash"
+Rice,Early Growth,10.0,20.0,Application of nitrogenous fertilizers like urea to promote tillering and vegetative growth
+Rice,Mid-Growth,20.0,40.0,Application of phosphatic fertilizers like diammonium phosphate (DAP) and potassic fertilizers like muriate of potash (MOP) to support panicle initiation and development
+Rice,Late Growth,40.0,60.0,Continued application of nitrogenous fertilizers like urea to support grain filling and development of the panicles
+Rice,Fruiting,60.0,90.0,"Application of balanced fertilizers containing nitrogen, phosphorus, and potassium (NPK) to support grain filling and maturation"
+Rice,Harvest,90.0,120.0,Cease fertilization to allow the rice grains to fully mature
+Maize,Land Preparation,,,Organic matter incorporation such as compost or well-rotted manure
+Maize,Planting,,,Balanced fertilizer such as 10-10-10 NPK blend
+Maize,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Maize,Mid-Growth,20.0,40.0,Balanced fertilizers with higher phosphorus content to support root development
+Maize,Late Growth,40.0,60.0,Continued application of balanced fertilizers or potassium-rich fertilizers like potassium sulfate
+Maize,Grain Filling,60.0,80.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote grain filling
+Maize,Harvest,,,Cease fertilization to allow maize kernels to fully ripen
+Wheat,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to improve soil structure and fertility
+Wheat,Seedbed Preparation,,,Application of basal fertilizers like di-ammonium phosphate (DAP) or single superphosphate to provide essential nutrients for seed germination and early root development
+Wheat,Sowing,,,Application of nitrogenous fertilizers like urea or ammonium sulfate to promote initial vegetative growth and tillering
+Wheat,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea to support rapid vegetative growth and tillering during this critical stage
+Wheat,Mid-Growth,20.0,40.0,"Continued application of nitrogenous fertilizers along with phosphatic fertilizers like diammonium phosphate (DAP) to support stem and leaf development, as well as root growth"
+Wheat,Late Growth,40.0,60.0,"Application of balanced fertilizers containing nitrogen, phosphorus, and potassium (NPK) to promote overall plant health, tillering, and grain development"
+Wheat,Heading,60.0,80.0,Continued application of balanced fertilizers with a focus on nitrogen to support grain filling and development of the wheat head
+Wheat,Grain Filling,80.0,100.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote grain filling and enhance grain quality
+Wheat,Harvest,,,Cease fertilization to allow the wheat grains to mature fully
+Groundnut,Land Preparation,,,Organic matter incorporation such as compost or well-rotted manure
+Groundnut,Planting,,,Balanced fertilizer such as 10-10-10 NPK blend
+Groundnut,Early Growth,10.0,20.0,Nitrogen-rich fertilizers like urea or ammonium nitrate
+Groundnut,Mid-Growth,20.0,40.0,Balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Groundnut,Late Growth,40.0,60.0,Continued application of balanced fertilizers or potassium-rich fertilizers like potassium sulfate
+Groundnut,Pod Development,60.0,90.0,Potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and filling
+Groundnut,Harvest,,,Cease fertilization to allow groundnut pods to fully mature
+Watermelon,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Watermelon,Seedbed Preparation,,,"Application of basal fertilizers like urea, single superphosphate, and muriate of potash"
+Watermelon,Transplanting,,,"Application of nitrogenous fertilizers like urea and ammonium sulfate, along with phosphatic fertilizers like diammonium phosphate (DAP) and potassic fertilizers like muriate of potash (MOP)"
+Watermelon,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Watermelon,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Watermelon,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support reproductive growth and fruit development
+Watermelon,Fruiting,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Watermelon,Harvest,,,Cease fertilization to allow watermelons to fully ripen
+Muskmelon,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Muskmelon,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Muskmelon,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Muskmelon,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Muskmelon,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Muskmelon,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Muskmelon,Harvest,,,Cease fertilization to allow muskmelons to fully ripen
+Pomegranate,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Pomegranate,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Pomegranate,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Pomegranate,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Pomegranate,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Pomegranate,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Pomegranate,Harvest,,,Cease fertilization to allow pomegranates to fully ripen
+Lemon,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Lemon,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Lemon,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Lemon,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Lemon,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Lemon,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Lemon,Harvest,,,Cease fertilization to allow lemons to fully ripen
+Sunflower,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Sunflower,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Sunflower,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Sunflower,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Sunflower,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Sunflower,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Sunflower,Harvest,,,Cease fertilization to allow sunflower seeds to fully ripen
+Rose,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Rose,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Rose,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Rose,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Rose,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and bud formation
+Rose,Flowering,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote flower development and maturation
+Rose,Harvest,,,Cease fertilization to allow roses to fully bloom and mature
+Sapota,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Sapota,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Sapota,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Sapota,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Sapota,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Sapota,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Sapota,Harvest,,,Cease fertilization to allow sapotas to fully ripen
+Brinjal,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Brinjal,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Brinjal,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Brinjal,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Brinjal,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Brinjal,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Brinjal,Harvest,,,Cease fertilization to allow Brinjals to fully ripen
+Banana,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Banana,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Banana,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Banana,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Banana,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Banana,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Banana,Harvest,,,Cease fertilization to allow bananas to fully ripen
+Apple,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Apple,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Apple,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Apple,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Apple,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Apple,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Apple,Harvest,,,Cease fertilization to allow apples to fully ripen
+Sweet Lemon,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Sweet Lemon,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Sweet Lemon,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Sweet Lemon,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Sweet Lemon,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Sweet Lemon,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Sweet Lemon,Harvest,,,Cease fertilization to allow Mosambi fruits to fully ripen
+Guava,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Guava,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Guava,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Guava,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Guava,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Guava,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Guava,Harvest,,,Cease fertilization to allow guavas to fully ripen
+Mustard,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Mustard,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Mustard,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Mustard,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Mustard,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and pod formation
+Mustard,Pod Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and maturation
+Mustard,Harvest,,,Cease fertilization to allow mustard pods to fully ripen
+Finger Millet,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Finger Millet,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Finger Millet,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Finger Millet,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Finger Millet,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and grain formation
+Finger Millet,Grain Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote grain development and maturation
+Finger Millet,Harvest,,,Cease fertilization to allow Finger millet grains to fully ripen
+Pearl Millet,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Pearl Millet,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Pearl Millet,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Pearl Millet,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Pearl Millet,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Pearl Millet,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Pearl Millet,Harvest,,,Cease fertilization to allow pearl millets to fully ripen
+Cowpea,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Cowpea,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Cowpea,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Cowpea,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Cowpea,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and pod formation
+Cowpea,Pod Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and maturation
+Cowpea,Harvest,,,Cease fertilization to allow cowpea pods to fully mature
+Carrot,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Carrot,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Carrot,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Carrot,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Carrot,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and root development
+Carrot,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote carrot development and maturation
+Carrot,Harvest,,,Cease fertilization to allow carrots to fully mature
+Cabbage,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Cabbage,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Cabbage,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Cabbage,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Cabbage,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and head formation
+Cabbage,Harvest,,,Cease fertilization to allow cabbage heads to fully mature
+Cauliflower,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Cauliflower,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Cauliflower,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Cauliflower,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Cauliflower,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and head formation
+Cauliflower,Head Formation,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote head development and maturation
+Cauliflower,Harvest,,,Cease fertilization to allow cauliflower heads to fully mature
+Beetroot,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Beetroot,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Beetroot,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Beetroot,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Beetroot,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and root development
+Beetroot,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Beetroot,Harvest,,,Cease fertilization to allow beetroot to fully ripen
+Grapes,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Grapes,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Grapes,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Grapes,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Grapes,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Grapes,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Grapes,Harvest,,,Cease fertilization to allow grapes to fully ripen
+Onion,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Onion,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Onion,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Onion,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Onion,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and bulb formation
+Onion,Bulb Formation,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote bulb development and maturation
+Onion,Harvest,,,Cease fertilization to allow onions to fully mature
+Cucumber,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Cucumber,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Cucumber,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Cucumber,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Cucumber,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Cucumber,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Cucumber,Harvest,,,Cease fertilization to allow cucumbers to fully ripen
+Okra,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Okra,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Okra,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Okra,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Okra,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and fruit formation
+Okra,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote fruit development and maturation
+Okra,Harvest,,,Cease fertilization to allow okra pods to fully ripen
+Ginger,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Ginger,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Ginger,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Ginger,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Ginger,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and rhizome formation
+Ginger,Fruiting,60.0,80.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote rhizome development and maturation
+Ginger,Harvest,,,Cease fertilization to allow ginger rhizomes to fully mature
+Black gram,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Black gram,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Black gram,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Black gram,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Black gram,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and pod formation
+Black gram,Pod Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and filling
+Black gram,Harvest,,,Cease fertilization to allow Black gram pods to fully ripen
+Green gram,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Green gram,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Green gram,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Green gram,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Green gram,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and pod formation
+Green gram,Pod Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and filling
+Green gram,Harvest,,,Cease fertilization to allow green gram pods to fully ripen
+Red gram,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Red gram,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Red gram,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Red gram,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Red gram,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and pod formation
+Red gram,Pod Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and maturation
+Red gram,Harvest,,,Cease fertilization to allow red gram pods to fully ripen
+Pigeon pea,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Pigeon pea,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for seedling growth
+Pigeon pea,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Pigeon pea,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Pigeon pea,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and pod formation
+Pigeon pea,Pod Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote pod development and filling
+Pigeon pea,Harvest,,,Cease fertilization to allow pigeon pea pods to fully mature
+Turmeric,Land Preparation,,,Application of organic matter such as compost or well-rotted manure to enrich the soil
+Turmeric,Planting,,,Application of a balanced fertilizer such as 10-10-10 NPK blend to provide essential nutrients for rhizome growth
+Turmeric,Early Growth,10.0,20.0,Application of nitrogen-rich fertilizers like urea or ammonium nitrate to promote early vegetative growth
+Turmeric,Mid-Growth,20.0,40.0,Application of balanced fertilizers with higher phosphorus content to support root development and overall plant growth
+Turmeric,Late Growth,40.0,60.0,Continued application of balanced fertilizers or switching to potassium-rich fertilizers like potassium sulfate to support flowering and rhizome formation
+Turmeric,Rhizome Development,60.0,90.0,Application of potassium-rich fertilizers such as potassium chloride or potassium sulfate to promote rhizome development and maturation
+Turmeric,Harvest,,,Cease fertilization to allow turmeric rhizomes to fully mature
